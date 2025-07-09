@@ -1,6 +1,4 @@
-# Docker Monitor
-
- Versão 1.1 @cybersecwonderwoman
+# Docker Monitor 1.1
 
 Um script de monitoramento para containers Docker que permite visualizar informações detalhadas sobre containers, redes, IPs e conectividade.
 
@@ -78,6 +76,6 @@ NC='\033[0m' # No Color
 
 ## Contribuição
 
-Feito com ❤️ para a comunidade Docker.
+Feito  Por @cybersecwonderwoman com ❤️ para a comunidade Docker.
 
 Se você achar esta ferramenta útil, considere dar um ⭐ no GitHub!
