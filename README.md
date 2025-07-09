@@ -76,6 +76,6 @@ NC='\033[0m' # No Color
 
 ## ✨ Contribuição
 
-Feito  Por @cybersecwonderwoman com ❤️ para a comunidade Docker.
+Feito  por @cybersecwonderwoman com ❤️ para a comunidade Docker.
 
 Se você achar esta ferramenta útil, considere dar um ⭐ no GitHub!
