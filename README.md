@@ -1,4 +1,4 @@
-# <span color="purple">📊 Docker Monitor 1.1</span>
+# <span color="red">📊 Docker Monitor 1.1</span>
 
 Um script de monitoramento para containers Docker que permite visualizar informações detalhadas sobre containers, redes, IPs e conectividade.
 
@@ -74,7 +74,7 @@ NC='\033[0m' # No Color
 - Se você não conseguir ver informações de rede para um container, verifique se o container está em execução
 - Para problemas de conectividade, verifique se os containers estão na mesma rede Docker
 
-## Contribuição
+## ✨ Contribuição
 
 Feito  Por @cybersecwonderwoman com ❤️ para a comunidade Docker.
 
