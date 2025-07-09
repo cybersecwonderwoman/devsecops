@@ -1,6 +1,4 @@
-<span style="color: purple;">
-#Docker Monitor 1.1
-</span>
+# Docker Monitor 1.1
 
 Um script de monitoramento para containers Docker que permite visualizar informações detalhadas sobre containers, redes, IPs e conectividade.
 
