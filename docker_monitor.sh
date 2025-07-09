@@ -3,6 +3,21 @@
 # Script para monitorar containers Docker
 # Mostra containers, status, rede, IP e verifica conectividade
 # Versão 1.1 @cybersecwonderwoman
+#
+# Copyright (C) 2025 Anny Ribeiro
+# 
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 # Cores para melhor visualização
 RED='\033[0;31m'
