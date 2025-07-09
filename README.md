@@ -2,7 +2,7 @@
 
 Um script de monitoramento para containers Docker que permite visualizar informações detalhadas sobre containers, redes, IPs e conectividade.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 O Docker Monitor oferece as seguintes funcionalidades:
 
@@ -20,13 +20,13 @@ O Docker Monitor oferece as seguintes funcionalidades:
    - CPU, memória e uso de rede
 7. **Executar todas as verificações** acima de uma vez
 
-## Requisitos
+## 📝 Requisitos
 
 - Docker instalado e em execução
 - Bash shell
 - Permissões para executar comandos Docker
 
-## Instalação
+## ⏬ Instalação
 
 1. Baixe o script para seu sistema:
 ```bash
@@ -54,7 +54,7 @@ Você verá um menu interativo com as opções disponíveis. Selecione a opção
 - Para testar a conectividade entre containers, selecione a opção 5
 - Para obter informações detalhadas sobre as redes de um container específico, selecione a opção 3
 
-## Personalização
+## ✏️ Personalização
 
 O script usa cores para melhorar a legibilidade. Você pode personalizar as cores editando as variáveis no início do script:
 
@@ -68,7 +68,7 @@ CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 ```
 
-## Solução de problemas
+## ⁉️ Solução de problemas
 
 - Se o script retornar um erro sobre Docker não estar instalado, verifique se o Docker está instalado e em execução
 - Se você não conseguir ver informações de rede para um container, verifique se o container está em execução
